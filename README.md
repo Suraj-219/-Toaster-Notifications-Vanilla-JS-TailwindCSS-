@@ -1,1 +1,1 @@
-# -Toaster-Notifications-Vanilla-JS-TailwindCSS-
+# 🔔 Toaster Notifications (Vanilla JS + TailwindCSS)
