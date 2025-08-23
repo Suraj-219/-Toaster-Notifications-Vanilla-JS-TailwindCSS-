@@ -26,14 +26,17 @@ Supports light/dark themes, different notification types, closable buttons, auto
 
 ## 📦 Installation
 1. Include TailwindCSS
--  <script src="https://cdn.tailwindcss.com"></script>
+  
+   <script src="https://cdn.tailwindcss.com"></script>
    
-2. Add the parent container
+4. Add the parent container
 Place this inside <body>:
--   <div class="fixed parent p-10 flex flex-col gap-4"></div>
+
+<div class="fixed parent p-10 flex flex-col gap-4"></div>
 
 3. Include the toaster script
--   <script src="script.js"></script>
+   
+   <script src="script.js"></script>
 
 ---
 
